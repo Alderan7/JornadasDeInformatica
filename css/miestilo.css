@@ -1,0 +1,57 @@
+*{  margin: 0; 
+    padding: 0;}
+
+.horizontal{   
+    display: inline-block;
+    padding: 5px;
+}
+
+
+nav{
+    background-color: rgb(109, 148, 36);
+    height: 30px;
+    
+}
+
+nav >ul >li >a{
+    color: white;
+    
+}
+
+header{
+background-color: rgba(70, 102, 161, 0.911);
+height: 200px;
+margin: 0; 
+padding: 0;
+
+}
+
+section{
+    float: left;
+    width: 70%;
+
+}
+
+aside{
+float: right;
+width: 30%;
+height: 500px;
+
+}
+
+main{
+    height: 700px;
+
+}
+
+.vertical{
+    display: block;
+    list-style: none;
+
+}
+
+footer{
+    background-color: black;
+    color: white;
+    
+}
